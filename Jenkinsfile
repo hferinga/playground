@@ -16,7 +16,7 @@ pipeline {
         }
         stage('') {
           steps {
-            sh 'echo "een"'
+            sh 'echo "doet niks"'
           }
         }
       }
